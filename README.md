@@ -222,15 +222,14 @@ automating synchronization and operational workflows.
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
 <div align="center">
 
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=DimitriMedNov&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriMedNov&layout=compact&theme=tokyonight&hide_border=true" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DimitriMedNov&theme=tokyonight"
+  alt="GitHub Contribution Graph"
+/>
 
 </div>
 

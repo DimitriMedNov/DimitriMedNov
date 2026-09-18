@@ -1,283 +1,84 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:0f172a,50:2563eb,100:06b6d4" />
+# Jesus D. Medina Novelo
 
-  <h1>Jesus D'mitri Medina Novelo</h1>
+AI & Full-Stack Engineer · Mérida, Yucatán, México
 
-  <h3>AI & Full-Stack Engineer</h3>
+I build internal platforms that replace manual work: ERP and CRM systems, document
+processing with OCR and LLMs, and workflow automation. Most of it runs inside private
+companies, so this profile is where I put the parts I can show.
 
-  <p>
-    Enterprise Automation · React · TypeScript · Python · APIs · Cloud
-  </p>
-
-  <a href="https://www.linkedin.com/in/jdmtmednov82">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://portfolio-mednov.vercel.app/about">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
+**Portfolio:** [portfolio-mednov.vercel.app](https://portfolio-mednov.vercel.app) ·
+**LinkedIn:** [jdmtmednov82](https://www.linkedin.com/in/jdmtmednov82/) ·
+**Email:** mednov@outlook.es
 
 ---
 
-## 👨‍💻 About Me
+## What I'm building right now
 
-I'm a Software Engineer focused on building intelligent business
-systems, enterprise automation, and modern full-stack applications.
+**Head of IT & Software Engineering — Diprolam** (Feb 2026 – present)
+Technology operations across four locations. I architect and build the company's ERP
+(inventory, purchasing, warehouses, suppliers), a multi-tenant SaaS platform for internal
+process digitalization, and a CRM for sales pipeline and customer management. I also run
+the infrastructure: Linux, Docker, AWS and DigitalOcean, with access control, backups and
+a tested disaster recovery plan.
 
-I design and develop end-to-end solutions using **React, TypeScript,
-Python, PostgreSQL and Supabase**, integrating **AI models, LLMs,
-OCR and REST APIs** to automate real business processes.
-
-My experience includes building **ERP, CRM and SaaS platforms**,
-AI-powered assistants, document-processing systems, workflow
-automation and enterprise integrations.
-
-I also work with cloud infrastructure and deployment environments
-using **Docker, AWS, DigitalOcean, Linux and Vercel**.
+`Python` `React 19` `TypeScript` `TanStack` `Supabase` `PostgreSQL` `Docker` `AWS`
 
 ---
 
-## 🚀 What I Build
+## Code you can open
 
-- 🤖 AI-powered applications and intelligent assistants
-- ⚙️ Business process and workflow automation
-- 🏢 ERP, CRM and internal enterprise platforms
-- 🌐 Modern full-stack web applications
-- 🔗 REST APIs and third-party system integrations
-- 📄 OCR and intelligent document-processing systems
-- ☁️ Cloud-native and containerized applications
-
----
-
-## 🧠 AI & Automation
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-AI%20Systems-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/OCR-Document%20AI-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Agents-111827?style=flat-square" />
-</p>
-
-- LLM integrations and AI-powered applications
-- Conversational AI and chatbots
-- AI agents and intelligent workflows
-- OCR and document processing
-- Prompt engineering
-- Business process automation
-- API-driven automation
+| Project | What it is | Stack |
+|---|---|---|
+| [portfolio-mednov](https://github.com/DimitriMedNov/portfolio-mednov) | My portfolio site | React · TypeScript · Vite |
+| [Inventory-Management-System](https://github.com/DimitriMedNov/Inventory-Management-System) | Inventory and stock movements | TypeScript |
+| [chainlytics82](https://github.com/DimitriMedNov/chainlytics82) | Crypto analytics dashboard | React · TypeScript · shadcn/ui |
+| [mindtask-ai](https://github.com/DimitriMedNov/mindtask-ai-4528082c) | Collaborative task app | React Native · Express · MongoDB |
+| [ProyectoPrWeb](https://github.com/DimitriMedNov/ProyectoPrWeb) | Booking system for a local restaurant | HTML · CSS · JavaScript |
 
 ---
 
-## 🛠️ Tech Stack
+## In progress (Sep 2026 – Feb 2027)
 
-### Frontend
+Three projects I'm building in the open, each one with measured results published in its
+README — accuracy, latency and cost per run, not just screenshots:
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vue,nuxt,tailwind,html,css" />
-</p>
+- **Document engine with OCR and semantic search** — upload an invoice or contract, get
+  validated structured data plus natural-language search that shows where each value came
+  from. Includes a 50-document evaluation set and cost-per-document measurements.
+- **Multi-tenant inventory and purchasing ERP** — kardex-style stock movements, purchase
+  order states, roles, and tenant isolation enforced in the database and proven with tests.
+- **Operational agent** — takes a real input, calls tools, retries on failure, caps its own
+  steps and spend, and logs every decision it made.
 
-**React 19 · TypeScript · JavaScript · Vue.js · Nuxt · TanStack ·
-Tailwind CSS · shadcn/ui**
-
-### Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask" />
-</p>
-
-**Python · FastAPI · Django · Flask · REST APIs · Microservices**
-
-### Database & Backend Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb" />
-</p>
-
-**PostgreSQL · Supabase · MongoDB · SQL**
-
-### Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,vercel,git,github" />
-</p>
-
-**AWS · DigitalOcean · Docker · Kubernetes · Linux · Vercel · CI/CD**
+Follow the commits here as they land.
 
 ---
 
-## 💼 Engineering Focus
+## Background
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| | |
+|---|---|
+| **Feb 2026 – present** | Head of IT & Software Engineering · Diprolam |
+| **Aug 2025 – Jan 2026** | AI Solutions Engineer & Project Lead · Grupo Megamedia |
+| **Jan 2025 – Feb 2026** | AI & API Software Developer · Diario de Yucatán |
+| **Jan 2024 – Dec 2024** | Web Developer · Diario de Yucatán |
+| **Feb 2023 – Jan 2024** | Technical Support, then Software Engineering Intern · Universidad Anáhuac Mayab |
 
-### 🤖 AI Engineering
-
-Building AI-powered systems using LLMs,
-APIs, conversational interfaces and
-intelligent automation.
-
-**Focus:**
-- LLM integrations
-- AI agents
-- Chatbots
-- OCR
-- Intelligent workflows
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Enterprise Automation
-
-Designing systems that replace repetitive
-manual processes with reliable digital
-workflows.
-
-**Focus:**
-- Workflow automation
-- API integrations
-- Business processes
-- Internal tools
-- System integrations
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Business Platforms
-
-Developing enterprise applications for
-operational and administrative processes.
-
-**Focus:**
-- ERP systems
-- CRM platforms
-- SaaS applications
-- Inventory systems
-- Purchasing workflows
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☁️ Cloud & Architecture
-
-Building and deploying scalable applications
-using modern cloud and DevOps technologies.
-
-**Focus:**
-- Cloud infrastructure
-- Docker
-- PostgreSQL
-- Supabase
-- CI/CD
-
-</td>
-</tr>
-</table>
+B.S. in Information Technology and Digital Business, Universidad Anáhuac Mayab (2020–2024).
+Certified: AWS Cloud Practitioner (CLF-C02), Google Associate Cloud Engineer, CCNA.
 
 ---
 
-## 🔨 Selected Engineering Work
+## Tools I reach for
 
-### 🏢 Enterprise ERP & Operations Platform
-
-Development of a corporate platform for managing **inventory,
-purchasing, warehouses, suppliers and administrative workflows**.
-
-`React` `TypeScript` `TanStack` `Supabase` `PostgreSQL` `Docker`
-
----
-
-### 🤖 AI & Workflow Automation
-
-Design and implementation of AI-powered systems combining **LLMs,
-REST APIs and workflow automation** to optimize internal business
-operations.
-
-`Python` `OpenAI API` `FastAPI` `n8n` `PostgreSQL` `Docker`
+**Languages** Python · TypeScript · JavaScript · SQL
+**Frontend** React · Next.js · Vue · Nuxt · TanStack · Tailwind CSS
+**Backend** FastAPI · Flask · Django · REST APIs
+**AI** OpenAI API · LLM integrations · AI agents · OCR · RAG · n8n
+**Data** PostgreSQL · Supabase · MongoDB
+**Infra** Docker · AWS · DigitalOcean · Linux · CI/CD · Vercel
 
 ---
 
-### 📄 Intelligent Document Processing
-
-Implementation of **OCR and AI-based document processing** to improve
-information retrieval and automate document-centric workflows.
-
-`Python` `OCR` `LLMs` `REST APIs`
-
----
-
-### 🔗 Enterprise System Integrations
-
-Development of integrations between business platforms and APIs,
-automating synchronization and operational workflows.
-
-`Python` `REST APIs` `Zoho` `WooCommerce` `AI`
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DimitriMedNov&theme=tokyonight"
-  alt="GitHub Contribution Graph"
-/>
-
-</div>
-
----
-
-## 🎓 Certifications & Continuous Learning
-
-**Cloud & Infrastructure**
-
-AWS Cloud Practitioner · Google Associate Cloud Engineer · CCNA ·
-Docker & Kubernetes
-
-**Artificial Intelligence**
-
-Generative AI with Large Language Models · Machine Learning with
-Python · Designing Machine Learning Workflows · Advanced Prompt
-Engineering
-
-**Software Engineering**
-
-Software Development with Claude Code · Advanced AI-Assisted Coding ·
-Full-Stack Web Development with React
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/jdmtmednov82">
-  <img src="https://img.shields.io/badge/LinkedIn-Jesus%20Medina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://portfolio-mednov.vercel.app/about">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<p align="center">
-  Building software that turns complex business processes into
-  scalable digital systems.
-</p>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DimitriMedNov.DimitriMedNov" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f172a,50:2563eb,100:06b6d4" />
+Open to full-stack and AI engineering roles, remote or in Mérida.
+The fastest way to reach me is mednov@outlook.es.

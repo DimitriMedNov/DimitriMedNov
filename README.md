@@ -1,6 +1,6 @@
 # Jesus D. Medina Novelo
 
-AI & Full-Stack Engineer · Mérida, Yucatán, México
+AI & Full-Stack Engineer · Mexico City
 
 I build internal platforms that replace manual work: ERP and CRM systems, document
 processing with OCR and LLMs, and workflow automation. Most of it runs inside private
@@ -80,5 +80,5 @@ Certified: AWS Cloud Practitioner (CLF-C02), Google Associate Cloud Engineer, CC
 
 ---
 
-Open to full-stack and AI engineering roles, remote or in Mérida.
+Open to full-stack and AI engineering roles, remote or in Mexico City.
 The fastest way to reach me is mednov@outlook.es.

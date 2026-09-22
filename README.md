@@ -27,13 +27,14 @@ a tested disaster recovery plan.
 
 ## Code you can open
 
-| Project | What it is | Stack |
-|---|---|---|
-| [portfolio-mednov](https://github.com/DimitriMedNov/portfolio-mednov) | My portfolio site | React · TypeScript · Vite |
-| [Inventory-Management-System](https://github.com/DimitriMedNov/Inventory-Management-System) | Inventory and stock movements | TypeScript |
-| [chainlytics82](https://github.com/DimitriMedNov/chainlytics82) | Crypto analytics dashboard | React · TypeScript · shadcn/ui |
-| [mindtask-ai](https://github.com/DimitriMedNov/mindtask-ai-4528082c) | Collaborative task app | React Native · Express · MongoDB |
-| [ProyectoPrWeb](https://github.com/DimitriMedNov/ProyectoPrWeb) | Booking system for a local restaurant | HTML · CSS · JavaScript |
+| Project | What it is | Stack | Live |
+|---|---|---|---|
+| [Analytics](https://github.com/DimitriMedNov/Analytics) | Survey platform backend: reusable questions, conditional logic, geolocated answers | Go · chi · PostgreSQL · sqlc | — |
+| [beat-pulse-visualizer-plus](https://github.com/DimitriMedNov/beat-pulse-visualizer-plus) | ECG simulator for nursing and medical students, with exam mode | React · TypeScript | [demo](https://beat-pulse-visualizer.vercel.app) |
+| [Inventory-Management-System](https://github.com/DimitriMedNov/Inventory-Management-System) | Multi-company inventory and requisitions with kardex and roles | React · TypeScript · Supabase | [demo](https://inventory-management-system-ten-puce.vercel.app) |
+| [mindtask-ai](https://github.com/DimitriMedNov/mindtask-ai) | Task manager that runs fully on your machine: local database, AI model and dictation | React · TypeScript · PGlite | [demo](https://mindtask-ai.vercel.app) |
+| [whatsapp-sticker-bot-vercel](https://github.com/DimitriMedNov/whatsapp-sticker-bot-vercel) | WhatsApp bot that turns images into stickers, with per-user limits | Node.js · Vercel · Supabase | [demo](https://whatsapp-sticker-bot-vercel.vercel.app) |
+| [portfolio-mednov](https://github.com/DimitriMedNov/portfolio-mednov) | My bilingual portfolio site | React 19 · TypeScript · Vite | [demo](https://portfolio-mednov.vercel.app) |
 
 ---
 
@@ -50,7 +51,7 @@ README — accuracy, latency and cost per run, not just screenshots:
 - **Operational agent** — takes a real input, calls tools, retries on failure, caps its own
   steps and spend, and logs every decision it made.
 
-Follow the commits here as they land.
+Each repo goes public here when it reaches its first working version.
 
 ---
 

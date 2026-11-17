@@ -7,7 +7,7 @@ processing with OCR and LLMs, and workflow automation. Most of it runs inside pr
 companies, so this profile is where I put the parts I can show.
 
 **Portfolio:** [portfolio-mednov.vercel.app](https://portfolio-mednov.vercel.app) ·
-**LinkedIn:** [jdmtmednov82](https://www.linkedin.com/in/jdmtmednov82/) ·
+**LinkedIn:** [jdmtmednov82](https://www.linkedin.com/in/dimitrimednoov/) ·
 **Email:** mednov@outlook.es
 
 ---
